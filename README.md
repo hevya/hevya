@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Vova)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Vova)](https://git.io/typing-svg)
 
 # I'm student of Polytech University, 18 y.o.
 ### About me
@@ -14,3 +14,7 @@
 - 😃to work on different projects
 
 - 😃cooperate with other people
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
